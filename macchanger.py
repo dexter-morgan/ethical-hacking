@@ -1,5 +1,7 @@
 #!usr/bin/env python
 
+#Usage example : python macchanger.py -i eth0 -m 00:00:00:00:00:00
+
 import subprocess
 import optparse
 import re
