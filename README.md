@@ -9,4 +9,6 @@ My implementations for Zaid Sabih's course on Ethical Hacking
 
 4) Packet Sniffer  : Sniffs packets flowing through the interface and processes them. You must be MITM. Prints Url of webpages accessed and, sniffs passwords and usernames. Works for HTTP(not HTTPS--added later on) only.
 
-5) Net_cut          : Drops all packets coming to attacker machine which need to be forwarded to victim.
+5) Net Cut          : Drops all packets coming to attacker machine which need to be forwarded to victim and hence cuts off internet access to the victim machine.
+
+6) DNS Spoof        : Modifies the DNS responses coming to a victim machine and takes it to an ip of attackers choice.
