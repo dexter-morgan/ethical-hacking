@@ -12,3 +12,5 @@ My implementations for Zaid Sabih's course on Ethical Hacking
 5) Net Cut          : Drops all packets coming to attacker machine which need to be forwarded to victim and hence cuts off internet access to the victim machine.
 
 6) DNS Spoof        : Modifies the DNS responses coming to a victim machine and takes it to an ip of attackers choice.
+
+7) Replace Download : Replaces the download of an exe file with a file of choice based on the location entered in the code by the attacker.
