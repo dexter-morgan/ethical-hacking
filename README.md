@@ -15,4 +15,6 @@ My implementations for Zaid Sabih's course on Ethical Hacking
 
 7) Replace Download : Replaces the download of an exe file with a file of choice based on the location entered in the code by the attacker.
 
-8) HTTPS patch : Use sslstrip by moxie to make above codes to work with https websites.
+8) Code Injector    : Injects javascript code into the code served by the server and sends it to the victim. Use with Beef maybe.
+
+9) HTTPS patch : Use sslstrip by moxie to make above codes to work with https websites.
