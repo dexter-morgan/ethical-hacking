@@ -14,3 +14,5 @@ My implementations for Zaid Sabih's course on Ethical Hacking
 6) DNS Spoof        : Modifies the DNS responses coming to a victim machine and takes it to an ip of attackers choice.
 
 7) Replace Download : Replaces the download of an exe file with a file of choice based on the location entered in the code by the attacker.
+
+8) HTTPS patch : Use sslstrip by moxie to make above codes to work with https websites.
