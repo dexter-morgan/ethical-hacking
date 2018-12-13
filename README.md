@@ -18,3 +18,7 @@ My implementations for Zaid Sabih's course on Ethical Hacking
 8) Code Injector    : Injects javascript code into the code served by the server and sends it to the victim. Use with Beef maybe.
 
 9) HTTPS patch : Use sslstrip by moxie to make above codes to work with https websites.
+
+Most of the above programs rely on ARP spoofing to establish the attacker as the MITM. To defend against this here's an arp spoof detector program:
+
+10) Arp Spoof Detector: Detects Arp spoofing attacks and can be modified to give alerts to the user.
