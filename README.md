@@ -22,3 +22,5 @@ My implementations for Zaid Sabih's course on Ethical Hacking
 Most of the above programs rely on ARP spoofing to establish the attacker as the MITM. To defend against this here's an arp spoof detector program:
 
 10) Arp Spoof Detector: Detects Arp spoofing attacks and can be modified to give alerts to the user.
+
+Beyond this, I implemented malware, a keylogger and a backdoor. I feel posting the code for these isn't exactly "ethical" and so I won't post it. Feel free to contact me at darshildesai99@gmail.com if you need the codes (for educational purposes of course).
