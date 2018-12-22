@@ -23,4 +23,4 @@ Most of the above programs rely on ARP spoofing to establish the attacker as the
 
 10) Arp Spoof Detector: Detects Arp spoofing attacks and can be modified to give alerts to the user.
 
-Beyond this, I implemented malware, a keylogger and a backdoor. I feel posting the code for these isn't exactly "ethical" and so I won't post it. Feel free to contact me at darshildesai99@gmail.com if you need the codes (for educational purposes of course).
+11) Malware           : This script when executed on a target machine emails usernames and passwords stored locally to a chosen email id. It uses the tool laZagne.
