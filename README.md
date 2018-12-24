@@ -26,3 +26,5 @@ Most of the above programs rely on ARP spoofing to establish the attacker as the
 11) Malware           : This script when executed on a target machine emails usernames and passwords stored locally to a chosen email id. It uses the tool laZagne.
 
 12) Backdoor          : Listener listens on the attacker machine and reverse_backdoor establishes a reverse connection from victim machine to the attacker machine. You can upload and download files, run system command and look around the file system. This is python implemented and hence has cross-platform usability.
+
+13) Persistence       : A function that adds persistence to any of the above programs for a Windows machine.
