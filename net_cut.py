@@ -1,4 +1,4 @@
-#!usr/bin/env python
+#!/usr/bin/env python
 
 #Usage example: python net_cut.py # after running arp_spoof.py
 
