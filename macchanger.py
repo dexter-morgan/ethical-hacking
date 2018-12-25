@@ -1,4 +1,4 @@
-#!usr/bin/env python
+#!/usr/bin/env python
 
 #Usage example : python macchanger.py -i eth0 -m 00:00:00:00:00:00
 
