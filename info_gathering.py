@@ -12,7 +12,7 @@ def request(url):
 
 target_url = "10.0.2.10/mutillidae/"
 
-with open("root/Downloads/paths.txt", "r") as wordlist_file:
+with open("/root/Downloads/paths.txt", "r") as wordlist_file:
     for line in wordlist_file:
         word = line.strip()
         test_url = target_url + "/" + word
