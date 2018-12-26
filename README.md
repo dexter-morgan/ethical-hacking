@@ -27,6 +27,10 @@ Most of the above programs rely on ARP spoofing to establish the attacker as the
 
 12) Backdoor          : Listener listens on the attacker machine and reverse_backdoor establishes a reverse connection from victim machine to the attacker machine. You can upload and download files, run system command and look around the file system. This is python implemented and hence has cross-platform usability.
 
+13) Persistence       : A function that adds persistence to any of the above programs for a Windows machine.
+
 14) Anti virus bypass : Use https://spyralscanner.net/ or https://nodistribute.com/ to test progams against AV softwares online. Use https://github.com/upx/upx/releases/ to compress exe files.
 
-13) Persistence       : A function that adds persistence to any of the above programs for a Windows machine.
+Next couple scripts are for website pen testing. Note: Use only on websites that you have permission to  test!
+
+15) Info Gathering    : Code for discovering subdomains for a site. Wordlist should be made available. You can tweak the code a bit and use it for path discovery on particular domains. 
