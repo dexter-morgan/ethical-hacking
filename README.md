@@ -36,3 +36,5 @@ Next couple scripts are for website pen testing. Note: Use only on websites that
 15) Info Gathering    : Code for for path discovery on a particular domain. Wordlists should be made available. You can tweak the code a bit and use it for discovering subdomains for a site.
 
 16) Crawler           : Code to recursively discover all links on a website.
+
+17) Brute Force       : Code to guess login info (password) of a website's admin user.
