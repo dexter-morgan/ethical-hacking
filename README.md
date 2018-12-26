@@ -33,4 +33,4 @@ Most of the above programs rely on ARP spoofing to establish the attacker as the
 
 Next couple scripts are for website pen testing. Note: Use only on websites that you have permission to  test!
 
-15) Info Gathering    : Code for discovering subdomains for a site. Wordlist should be made available. You can tweak the code a bit and use it for path discovery on particular domains. 
+15) Info Gathering    : Code for for path discovery on a particular domain. Wordlists should be made available. You can tweak the code a bit and use it for discovering subdomains for a site.
